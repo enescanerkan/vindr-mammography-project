@@ -1,0 +1,19 @@
+path: colab_path # Veri seti Colab dizini
+
+train: images/train # Bunlarda Colabtaki dizinler
+val: images/val
+
+# Veri Setindeki Sınıflar
+names: [
+    "Architectural Distortion",
+    "Asymmetry",
+    "Focal Asymmetry",
+    "Global Asymmetry",
+    "Mass",
+    "Nipple Retraction",
+    "No Finding",
+    "Skin Retraction",
+    "Skin Thickening",
+    "Suspicious Calcification",
+    "Suspicious Lymph Node"
+]

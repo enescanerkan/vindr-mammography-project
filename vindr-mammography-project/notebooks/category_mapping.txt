@@ -1,0 +1,11 @@
+0: Architectural Distortion
+1: Asymmetry
+2: Focal Asymmetry
+3: Global Asymmetry
+4: Mass
+5: Nipple Retraction
+6: No Finding
+7: Skin Retraction
+8: Skin Thickening
+9: Suspicious Calcification
+10: Suspicious Lymph Node
