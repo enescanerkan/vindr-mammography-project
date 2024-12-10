@@ -90,17 +90,25 @@ Projenin Python scriptlerinin yer aldığı klasör.
 
 
 ## Kullanılan Teknolojiler ve Kütüphaneler
+#### Bu proje aşağıdaki teknolojiler ve kütüphanelerle geliştirilmiştir:
 
-Proje, aşağıdaki kütüphaneleri ve teknolojileri kullanmaktadır:
-- **Python 3.12**
-- **OpenCV 4.10.0.84**
-- **Ultralytics 8.3.13**
-- **Pandas 2.2.2**
-- **NumPy 1.26.4**
-- **pydicom 2.4.4**
-- **pillow 10.3.0**
-- **matplotlib 3.9.0**
-- **TensorFlow / PyTorch** (Eğitimde kullanılan derin öğrenme framework'leri)
+#### Programlama Dili
+* Python 3.12: Projenin temel programlama dili.(Veri setini oluştururken kullanılmıştır.)
+* Model eğitimi ve ince ayar süreçleri için kullanılan bulut platformu.
+  
+#### Kütüphaneler
+* OpenCV 4.10.0.84: Görüntü işleme için kullanılan kütüphane.
+* Ultralytics 8.3.13: YOLO modelleri ve bilgisayarla görme uygulamaları için.
+* Pandas 2.2.2: Veri analizi ve işleme için (Verilen CSV dosyalarının içindeki sütunları ve satırları kullanmak için).
+* NumPy 1.26.4: Sayısal hesaplamalar ve dizi işlemleri için.
+* pydicom 2.4.4: DICOM tıbbi görüntü formatını eğtimde gerekli olan png,jpg görüntülere çevirmek için.
+* Pillow 10.3.0: Görüntü manipülasyonu ve işleme için.
+* Matplotlib 3.9.0: Grafik ve veri görselleştirme için.
+  
+#### Derin Öğrenme Framework'leri
+* TensorFlow veya PyTorch: Model eğitimi ve derin öğrenme işlemleri için.
+* Not: Ultralytics kurulduğunda gerekli bağımlılıkların çoğu otomatik olarak yüklenir.
+
 
 ## Kurulum
 
