@@ -80,12 +80,11 @@ Projenin Python scriptlerinin yer aldığı klasör.
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github.com/user-attachments/assets/5e217c31-b3ba-4adc-9307-7ce6a0512faa" width="45%" />
-    <img src="https://github.com/user-attachments/assets/7ba04b45-a157-4060-b6df-2873a62c6003" width="45%" />
+    <img src="https://github.com/user-attachments/assets/f536f77e-35b7-4ab4-a2b1-c33b63f3c372" width="45%" />
 </div>
-
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github.com/user-attachments/assets/89eb6eb4-a0c0-4fee-b22d-e89e2378e640" width="45%" />
-    <img src="https://github.com/user-attachments/assets/8428943e-7053-465d-ac18-78cae7e5fc0d" width="45%" />
+    <img src="https://github.com/user-attachments/assets/9d1d6d8e-ac24-4a19-9072-05a0c16994fe" width="45%" />
 </div>
 
 
